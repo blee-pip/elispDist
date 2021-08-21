@@ -33,11 +33,11 @@ Installation
 
 ::
 
-    sudo pip install blee.elispDist
+   sudo pip install blee.elispDist
 
 Usage
 =====
 
 ::
 
-    /usr/local/bin/bx-bases-blee.py
+   /usr/local/bin/bx-bases-blee.py
