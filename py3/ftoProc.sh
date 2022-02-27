@@ -58,8 +58,6 @@ _CommentEnd_
 # {{{ DBLOCK-nodesList
 nodesList="
 blee
-dist
-blee.elispDist.egg-info
 bin
 "
 # }}} DBLOCK-nodesList
